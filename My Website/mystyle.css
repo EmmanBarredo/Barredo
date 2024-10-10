@@ -1,0 +1,59 @@
+html {
+    background-color: lightskyblue;
+    margin: 25px;
+}
+.Nav {
+    width: 600px;
+    background-color: lightblue;
+    margin: 2px;
+    border: 5px solid red;
+    padding: 20px;
+    text-align: center;
+    a:hover {   
+        background-color: lightpink;
+    }
+}
+.content {
+    margin: 1;
+    padding: 20;
+    background-color: red;
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img {
+    width: 500px;
+    height: 500px;
+}
+a{
+    margin: 10px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+footer {
+    margin: 3x;
+    padding: 15px;
+    background-color: navy;
+    text-align: center;
+    a:hover {
+        background-color: lightpink;
+    }
+    margin-top: 160px;
+}
+form {
+    margin: 2px;
+    padding: 5px;
+    background-color: white;
+    margin-top: -220px;
+    height: 105px;
+}
+audio {
+    top: 0px;
+    height: 100px;
+    float: left;
+    float: top;
+}
+video {
+    width: 400px;
+    float: center;
+}
